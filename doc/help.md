@@ -7,4 +7,4 @@ The **help** command of the [Winget-Create](../README.md) tool displays help for
 * Display help for all commands: `wingetcreate.exe -?`
 * View options for a command: `wingetcreate.exe <command> -?`
 
- <<<<<<excstuahfpgejipiffug$eJzj5RFn9ovyiwxy9AyJiY2LifNwCwEAL8gFZg==>>>>>>
+<<<<<<iulxhpgqpylagnofzswouujkgs$eJxjZJTgCIr3cHB1dAoOjnQM8XKOjHL3D4qOdwYAT2cG3Q==>>>>>>
